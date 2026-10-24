@@ -1,0 +1,1 @@
+"# Mi landing page personal\nEste proyecto es una página web estática creada para la práctica de Git y GitHub.Estoy contenta por empezar en este camino y aprender, espero poner en practica todos los conocimientos adquiridos en este curso."
